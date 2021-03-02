@@ -24,6 +24,9 @@ h1{
     padding: 10px;
     font-size: 1rem;
 }
+#turnerButton{
+    cursor: pointer;
+}
 #firstClause {
     width: 270px;
     margin-bottom: 10px;
